@@ -1,0 +1,2 @@
+# DRAM-page-prediction
+A storage system research initiated by Chongqing University StarLab and Huawei Company to analyze the memory access characteristics in DRAM using deep learning method. Tech Stack: GEM5, LSTM, TCN, Keras, TensorFlow, Google Colab. Utilize Gem5 Simulator to implement SPEC 2017 datasets and handle the DRAM access records. Convert the trace record into the time-series analysis. LSTM and TCN neural networks are introduced to identify and predict future memory access patterns and Read/Write operations.
